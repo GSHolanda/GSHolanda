@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**GSHolanda/GSHolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...a<h1 align="center">Gabriel Silva Holanda</h1>
+<h1 align="center">Gabriel Silva Holanda</h1>
 
 <p align="center">
   <b>Desenvolvedor Back-End Python · Interesse em IA · Automação de processos</b>
@@ -67,10 +58,3 @@ Ao analisar esses 10 perfis, o padrão mais forte foi a objetividade. As biograf
 
 - LinkedIn: [gabrielholanda-dev](https://www.linkedin.com/in/gabrielholanda-dev)
 - E-mail: [holandadev2@gmail.com](mailto:holandadev2@gmail.com)
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
