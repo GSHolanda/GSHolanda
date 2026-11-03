@@ -20,7 +20,7 @@ Minha meta é construir carreira em **back-end**, projetando APIs REST e bancos 
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,js,html,css,git,github" alt="Tecnologias que utilizo: Python, Flask, FastAPI, MySQL, JavaScript, HTML, CSS, Git e GitHub">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,postgres,js,html,css,docker,git,github" alt="Tecnologias que utilizo: Python, Flask, FastAPI, MySQL, PostgreSQL, JavaScript, HTML, CSS, Docker, Git e GitHub">
 </p>
 
 **Em estudo:** Node.js (APIs REST e back-end JavaScript) e Desenvolvimento Full Stack Python (EBAC).
@@ -30,8 +30,8 @@ Minha meta é construir carreira em **back-end**, projetando APIs REST e bancos 
 | Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
 | [Site_Contelb](https://github.com/GSHolanda/Site_Contelb) | Site institucional de um escritório de contabilidade, com gerador de páginas em Node, SEO local e dados estruturados. | HTML, CSS, JavaScript, Node.js |
+| [labtrack_gerenciamento_de_sistema](https://github.com/GSHolanda/labtrack_gerenciamento_de_sistema) | Mini-LIMS que acompanha o ciclo de vida de amostras de laboratório, com controle de permissões, integração com instrumentos, audit trail e relatório em PDF. | Python, FastAPI, PostgreSQL, React, TypeScript, Docker |
 | [analise-vendas](https://github.com/GSHolanda/analise-vendas) | Dashboard full stack de análise de vendas, com API REST e gráficos interativos. | Python, Flask, MySQL, JavaScript, Chart.js |
-| [Extrato_automator](https://github.com/GSHolanda/Extrato_automator) | Aplicação web que transcreve extratos bancários em foto e gera planilhas Excel conciliadas, com verificação de saldos. | Python, FastAPI, HTML, JavaScript |
 
 ## 🔎 Pesquisa de referências (benchmarking)
 
